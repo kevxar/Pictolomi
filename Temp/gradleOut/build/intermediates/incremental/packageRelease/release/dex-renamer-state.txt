@@ -1,0 +1,4 @@
+#Tue Sep 25 18:01:48 CLST 2018
+base.0=C\:\\Users\\PICTOLOMI\\Documents\\PictoTest\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
